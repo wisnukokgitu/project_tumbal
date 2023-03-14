@@ -1,0 +1,22 @@
+body{
+    background-color: gray;
+}
+
+#mycontainer{
+    width: 500px;
+    background-color: white;
+    padding: auto;
+    margin: auto;
+}
+
+a{
+    font-size: 32px;
+    border: 1px salmon;
+    padding: 5px;
+    background-color: blueviolet;
+    color: antiquewhite;
+
+}
+a:hover {
+    background-color: black;
+}
